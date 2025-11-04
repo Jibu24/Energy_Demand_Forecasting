@@ -20743,7 +20743,7 @@ period,respondent,respondent-name,fueltype,type-name,timezone,value,value-units
 2025-09-27,CAL,California,OIL,Petroleum,Pacific,1095,megawatthours
 2025-09-27,CAL,California,OTH,Other,Pacific,522,megawatthours
 2025-09-27,CAL,California,PS,Pumped storage,Pacific,523,megawatthours
-2025-09-27,CAL,California,SNB,Solar with integrated battery storage,Pacific,2786,megawatthours
+2025-09-27,CAL,California,SNB,Solar with integrated battery storage,Pacific,2814,megawatthours
 2025-09-27,CAL,California,SUN,Solar,Pacific,136903,megawatthours
-2025-09-27,CAL,California,WAT,Hydro,Pacific,60365,megawatthours
-2025-09-27,CAL,California,WND,Wind,Pacific,35261,megawatthours
+2025-09-27,CAL,California,WAT,Hydro,Pacific,60366,megawatthours
+2025-09-27,CAL,California,WND,Wind,Pacific,35288,megawatthours

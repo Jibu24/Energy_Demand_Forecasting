@@ -20160,17 +20160,17 @@ period,respondent,respondent-name,fueltype,type-name,timezone,value,value-units
 2025-08-09,CAL,California,SUN,Solar,Pacific,196790,megawatthours
 2025-08-09,CAL,California,WAT,Hydro,Pacific,99728,megawatthours
 2025-08-09,CAL,California,WND,Wind,Pacific,55088,megawatthours
-2025-08-10,CAL,California,BAT,Battery storage,Pacific,74,megawatthours
+2025-08-10,CAL,California,BAT,Battery storage,Pacific,161,megawatthours
 2025-08-10,CAL,California,COL,Coal,Pacific,6093,megawatthours
-2025-08-10,CAL,California,GEO,Geothermal,Pacific,9660,megawatthours
-2025-08-10,CAL,California,NG,Natural Gas,Pacific,374175,megawatthours
+2025-08-10,CAL,California,GEO,Geothermal,Pacific,9658,megawatthours
+2025-08-10,CAL,California,NG,Natural Gas,Pacific,374192,megawatthours
 2025-08-10,CAL,California,NUC,Nuclear,Pacific,38154,megawatthours
 2025-08-10,CAL,California,OIL,Petroleum,Pacific,1103,megawatthours
 2025-08-10,CAL,California,OTH,Other,Pacific,1728,megawatthours
 2025-08-10,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
 2025-08-10,CAL,California,SNB,Solar with integrated battery storage,Pacific,5604,megawatthours
 2025-08-10,CAL,California,SUN,Solar,Pacific,191378,megawatthours
-2025-08-10,CAL,California,WAT,Hydro,Pacific,91995,megawatthours
+2025-08-10,CAL,California,WAT,Hydro,Pacific,91996,megawatthours
 2025-08-10,CAL,California,WND,Wind,Pacific,70177,megawatthours
 2025-08-11,CAL,California,BAT,Battery storage,Pacific,-33,megawatthours
 2025-08-11,CAL,California,COL,Coal,Pacific,7536,megawatthours
@@ -20280,16 +20280,17 @@ period,respondent,respondent-name,fueltype,type-name,timezone,value,value-units
 2025-08-19,CAL,California,SUN,Solar,Pacific,193832,megawatthours
 2025-08-19,CAL,California,WAT,Hydro,Pacific,88603,megawatthours
 2025-08-19,CAL,California,WND,Wind,Pacific,47039,megawatthours
-2025-08-20,CAL,California,BAT,Battery storage,Pacific,8,megawatthours
+2025-08-20,CAL,California,BAT,Battery storage,Pacific,259,megawatthours
 2025-08-20,CAL,California,COL,Coal,Pacific,6950,megawatthours
-2025-08-20,CAL,California,NG,Natural Gas,Pacific,434728,megawatthours
+2025-08-20,CAL,California,GEO,Geothermal,Pacific,10036,megawatthours
+2025-08-20,CAL,California,NG,Natural Gas,Pacific,440456,megawatthours
 2025-08-20,CAL,California,NUC,Nuclear,Pacific,54490,megawatthours
 2025-08-20,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
 2025-08-20,CAL,California,OTH,Other,Pacific,403,megawatthours
 2025-08-20,CAL,California,PS,Pumped storage,Pacific,945,megawatthours
-2025-08-20,CAL,California,SNB,Solar with integrated battery storage,Pacific,5479,megawatthours
-2025-08-20,CAL,California,SUN,Solar,Pacific,191867,megawatthours
-2025-08-20,CAL,California,WAT,Hydro,Pacific,91115,megawatthours
+2025-08-20,CAL,California,SNB,Solar with integrated battery storage,Pacific,5860,megawatthours
+2025-08-20,CAL,California,SUN,Solar,Pacific,197079,megawatthours
+2025-08-20,CAL,California,WAT,Hydro,Pacific,91449,megawatthours
 2025-08-20,CAL,California,WND,Wind,Pacific,59797,megawatthours
 2025-08-21,CAL,California,BAT,Battery storage,Pacific,86,megawatthours
 2025-08-21,CAL,California,COL,Coal,Pacific,8723,megawatthours
@@ -20747,3 +20748,888 @@ period,respondent,respondent-name,fueltype,type-name,timezone,value,value-units
 2025-09-27,CAL,California,SUN,Solar,Pacific,136903,megawatthours
 2025-09-27,CAL,California,WAT,Hydro,Pacific,60366,megawatthours
 2025-09-27,CAL,California,WND,Wind,Pacific,35288,megawatthours
+2025-09-28,CAL,California,BAT,Battery storage,Pacific,37,megawatthours
+2025-09-28,CAL,California,COL,Coal,Pacific,4853,megawatthours
+2025-09-28,CAL,California,GEO,Geothermal,Pacific,10804,megawatthours
+2025-09-28,CAL,California,NG,Natural Gas,Pacific,280707,megawatthours
+2025-09-28,CAL,California,NUC,Nuclear,Pacific,54096,megawatthours
+2025-09-28,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
+2025-09-28,CAL,California,OTH,Other,Pacific,-1359,megawatthours
+2025-09-28,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-09-28,CAL,California,SNB,Solar with integrated battery storage,Pacific,3966,megawatthours
+2025-09-28,CAL,California,SUN,Solar,Pacific,160983,megawatthours
+2025-09-28,CAL,California,WAT,Hydro,Pacific,53838,megawatthours
+2025-09-28,CAL,California,WND,Wind,Pacific,28660,megawatthours
+2025-09-29,CAL,California,BAT,Battery storage,Pacific,171,megawatthours
+2025-09-29,CAL,California,COL,Coal,Pacific,4831,megawatthours
+2025-09-29,CAL,California,GEO,Geothermal,Pacific,10677,megawatthours
+2025-09-29,CAL,California,NG,Natural Gas,Pacific,302527,megawatthours
+2025-09-29,CAL,California,NUC,Nuclear,Pacific,53980,megawatthours
+2025-09-29,CAL,California,OIL,Petroleum,Pacific,1091,megawatthours
+2025-09-29,CAL,California,OTH,Other,Pacific,489,megawatthours
+2025-09-29,CAL,California,PS,Pumped storage,Pacific,3745,megawatthours
+2025-09-29,CAL,California,SNB,Solar with integrated battery storage,Pacific,3704,megawatthours
+2025-09-29,CAL,California,SUN,Solar,Pacific,158931,megawatthours
+2025-09-29,CAL,California,WAT,Hydro,Pacific,65455,megawatthours
+2025-09-29,CAL,California,WND,Wind,Pacific,22600,megawatthours
+2025-09-30,CAL,California,BAT,Battery storage,Pacific,24,megawatthours
+2025-09-30,CAL,California,COL,Coal,Pacific,4906,megawatthours
+2025-09-30,CAL,California,GEO,Geothermal,Pacific,10402,megawatthours
+2025-09-30,CAL,California,NG,Natural Gas,Pacific,283094,megawatthours
+2025-09-30,CAL,California,NUC,Nuclear,Pacific,53870,megawatthours
+2025-09-30,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-09-30,CAL,California,OTH,Other,Pacific,-907,megawatthours
+2025-09-30,CAL,California,PS,Pumped storage,Pacific,1634,megawatthours
+2025-09-30,CAL,California,SNB,Solar with integrated battery storage,Pacific,4334,megawatthours
+2025-09-30,CAL,California,SUN,Solar,Pacific,169538,megawatthours
+2025-09-30,CAL,California,WAT,Hydro,Pacific,59264,megawatthours
+2025-09-30,CAL,California,WND,Wind,Pacific,71545,megawatthours
+2025-10-01,CAL,California,BAT,Battery storage,Pacific,-116,megawatthours
+2025-10-01,CAL,California,COL,Coal,Pacific,4977,megawatthours
+2025-10-01,CAL,California,GEO,Geothermal,Pacific,10777,megawatthours
+2025-10-01,CAL,California,NG,Natural Gas,Pacific,291432,megawatthours
+2025-10-01,CAL,California,NUC,Nuclear,Pacific,53866,megawatthours
+2025-10-01,CAL,California,OIL,Petroleum,Pacific,1102,megawatthours
+2025-10-01,CAL,California,OTH,Other,Pacific,2202,megawatthours
+2025-10-01,CAL,California,PS,Pumped storage,Pacific,1869,megawatthours
+2025-10-01,CAL,California,SNB,Solar with integrated battery storage,Pacific,4627,megawatthours
+2025-10-01,CAL,California,SUN,Solar,Pacific,171426,megawatthours
+2025-10-01,CAL,California,WAT,Hydro,Pacific,64502,megawatthours
+2025-10-01,CAL,California,WND,Wind,Pacific,50295,megawatthours
+2025-10-02,CAL,California,BAT,Battery storage,Pacific,-307,megawatthours
+2025-10-02,CAL,California,COL,Coal,Pacific,5222,megawatthours
+2025-10-02,CAL,California,GEO,Geothermal,Pacific,10776,megawatthours
+2025-10-02,CAL,California,NG,Natural Gas,Pacific,295545,megawatthours
+2025-10-02,CAL,California,NUC,Nuclear,Pacific,53852,megawatthours
+2025-10-02,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-02,CAL,California,OTH,Other,Pacific,-1819,megawatthours
+2025-10-02,CAL,California,PS,Pumped storage,Pacific,1560,megawatthours
+2025-10-02,CAL,California,SNB,Solar with integrated battery storage,Pacific,4666,megawatthours
+2025-10-02,CAL,California,SUN,Solar,Pacific,156364,megawatthours
+2025-10-02,CAL,California,WAT,Hydro,Pacific,74767,megawatthours
+2025-10-02,CAL,California,WND,Wind,Pacific,45522,megawatthours
+2025-10-03,CAL,California,BAT,Battery storage,Pacific,-40,megawatthours
+2025-10-03,CAL,California,COL,Coal,Pacific,5596,megawatthours
+2025-10-03,CAL,California,GEO,Geothermal,Pacific,10662,megawatthours
+2025-10-03,CAL,California,NG,Natural Gas,Pacific,263751,megawatthours
+2025-10-03,CAL,California,NUC,Nuclear,Pacific,53933,megawatthours
+2025-10-03,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-03,CAL,California,OTH,Other,Pacific,-11917,megawatthours
+2025-10-03,CAL,California,PS,Pumped storage,Pacific,3712,megawatthours
+2025-10-03,CAL,California,SNB,Solar with integrated battery storage,Pacific,3186,megawatthours
+2025-10-03,CAL,California,SUN,Solar,Pacific,162033,megawatthours
+2025-10-03,CAL,California,WAT,Hydro,Pacific,59535,megawatthours
+2025-10-03,CAL,California,WND,Wind,Pacific,96800,megawatthours
+2025-10-04,CAL,California,BAT,Battery storage,Pacific,-543,megawatthours
+2025-10-04,CAL,California,COL,Coal,Pacific,4803,megawatthours
+2025-10-04,CAL,California,GEO,Geothermal,Pacific,10905,megawatthours
+2025-10-04,CAL,California,NG,Natural Gas,Pacific,220848,megawatthours
+2025-10-04,CAL,California,NUC,Nuclear,Pacific,53500,megawatthours
+2025-10-04,CAL,California,OIL,Petroleum,Pacific,1102,megawatthours
+2025-10-04,CAL,California,OTH,Other,Pacific,328,megawatthours
+2025-10-04,CAL,California,PS,Pumped storage,Pacific,4745,megawatthours
+2025-10-04,CAL,California,SNB,Solar with integrated battery storage,Pacific,4791,megawatthours
+2025-10-04,CAL,California,SUN,Solar,Pacific,149810,megawatthours
+2025-10-04,CAL,California,WAT,Hydro,Pacific,53686,megawatthours
+2025-10-04,CAL,California,WND,Wind,Pacific,61733,megawatthours
+2025-10-05,CAL,California,BAT,Battery storage,Pacific,584,megawatthours
+2025-10-05,CAL,California,COL,Coal,Pacific,4932,megawatthours
+2025-10-05,CAL,California,GEO,Geothermal,Pacific,11004,megawatthours
+2025-10-05,CAL,California,NG,Natural Gas,Pacific,248062,megawatthours
+2025-10-05,CAL,California,NUC,Nuclear,Pacific,27438,megawatthours
+2025-10-05,CAL,California,OIL,Petroleum,Pacific,571,megawatthours
+2025-10-05,CAL,California,OTH,Other,Pacific,6030,megawatthours
+2025-10-05,CAL,California,PS,Pumped storage,Pacific,5059,megawatthours
+2025-10-05,CAL,California,SNB,Solar with integrated battery storage,Pacific,5616,megawatthours
+2025-10-05,CAL,California,SUN,Solar,Pacific,169379,megawatthours
+2025-10-05,CAL,California,WAT,Hydro,Pacific,61875,megawatthours
+2025-10-05,CAL,California,WND,Wind,Pacific,21918,megawatthours
+2025-10-06,CAL,California,BAT,Battery storage,Pacific,-103,megawatthours
+2025-10-06,CAL,California,COL,Coal,Pacific,4908,megawatthours
+2025-10-06,CAL,California,GEO,Geothermal,Pacific,10956,megawatthours
+2025-10-06,CAL,California,NG,Natural Gas,Pacific,322826,megawatthours
+2025-10-06,CAL,California,NUC,Nuclear,Pacific,27165,megawatthours
+2025-10-06,CAL,California,OIL,Petroleum,Pacific,-41,megawatthours
+2025-10-06,CAL,California,OTH,Other,Pacific,-1464,megawatthours
+2025-10-06,CAL,California,PS,Pumped storage,Pacific,254,megawatthours
+2025-10-06,CAL,California,SNB,Solar with integrated battery storage,Pacific,5109,megawatthours
+2025-10-06,CAL,California,SUN,Solar,Pacific,174754,megawatthours
+2025-10-06,CAL,California,WAT,Hydro,Pacific,63936,megawatthours
+2025-10-06,CAL,California,WND,Wind,Pacific,26055,megawatthours
+2025-10-07,CAL,California,BAT,Battery storage,Pacific,-211,megawatthours
+2025-10-07,CAL,California,COL,Coal,Pacific,4831,megawatthours
+2025-10-07,CAL,California,GEO,Geothermal,Pacific,10991,megawatthours
+2025-10-07,CAL,California,NG,Natural Gas,Pacific,337880,megawatthours
+2025-10-07,CAL,California,NUC,Nuclear,Pacific,27168,megawatthours
+2025-10-07,CAL,California,OIL,Petroleum,Pacific,-26,megawatthours
+2025-10-07,CAL,California,OTH,Other,Pacific,-2680,megawatthours
+2025-10-07,CAL,California,PS,Pumped storage,Pacific,1272,megawatthours
+2025-10-07,CAL,California,SNB,Solar with integrated battery storage,Pacific,4280,megawatthours
+2025-10-07,CAL,California,SUN,Solar,Pacific,169496,megawatthours
+2025-10-07,CAL,California,WAT,Hydro,Pacific,69407,megawatthours
+2025-10-07,CAL,California,WND,Wind,Pacific,21920,megawatthours
+2025-10-08,CAL,California,BAT,Battery storage,Pacific,-213,megawatthours
+2025-10-08,CAL,California,COL,Coal,Pacific,4804,megawatthours
+2025-10-08,CAL,California,GEO,Geothermal,Pacific,10991,megawatthours
+2025-10-08,CAL,California,NG,Natural Gas,Pacific,312546,megawatthours
+2025-10-08,CAL,California,NUC,Nuclear,Pacific,27165,megawatthours
+2025-10-08,CAL,California,OIL,Petroleum,Pacific,-16,megawatthours
+2025-10-08,CAL,California,OTH,Other,Pacific,-4765,megawatthours
+2025-10-08,CAL,California,PS,Pumped storage,Pacific,1308,megawatthours
+2025-10-08,CAL,California,SNB,Solar with integrated battery storage,Pacific,5815,megawatthours
+2025-10-08,CAL,California,SUN,Solar,Pacific,166889,megawatthours
+2025-10-08,CAL,California,WAT,Hydro,Pacific,67566,megawatthours
+2025-10-08,CAL,California,WND,Wind,Pacific,38437,megawatthours
+2025-10-09,CAL,California,BAT,Battery storage,Pacific,311,megawatthours
+2025-10-09,CAL,California,COL,Coal,Pacific,5065,megawatthours
+2025-10-09,CAL,California,GEO,Geothermal,Pacific,10628,megawatthours
+2025-10-09,CAL,California,NG,Natural Gas,Pacific,329569,megawatthours
+2025-10-09,CAL,California,NUC,Nuclear,Pacific,27132,megawatthours
+2025-10-09,CAL,California,OIL,Petroleum,Pacific,0,megawatthours
+2025-10-09,CAL,California,OTH,Other,Pacific,3783,megawatthours
+2025-10-09,CAL,California,PS,Pumped storage,Pacific,3999,megawatthours
+2025-10-09,CAL,California,SNB,Solar with integrated battery storage,Pacific,4377,megawatthours
+2025-10-09,CAL,California,SUN,Solar,Pacific,123596,megawatthours
+2025-10-09,CAL,California,WAT,Hydro,Pacific,70137,megawatthours
+2025-10-09,CAL,California,WND,Wind,Pacific,23298,megawatthours
+2025-10-10,CAL,California,BAT,Battery storage,Pacific,-67,megawatthours
+2025-10-10,CAL,California,COL,Coal,Pacific,4944,megawatthours
+2025-10-10,CAL,California,GEO,Geothermal,Pacific,10455,megawatthours
+2025-10-10,CAL,California,NG,Natural Gas,Pacific,321020,megawatthours
+2025-10-10,CAL,California,NUC,Nuclear,Pacific,27160,megawatthours
+2025-10-10,CAL,California,OIL,Petroleum,Pacific,0,megawatthours
+2025-10-10,CAL,California,OTH,Other,Pacific,-4291,megawatthours
+2025-10-10,CAL,California,PS,Pumped storage,Pacific,3165,megawatthours
+2025-10-10,CAL,California,SNB,Solar with integrated battery storage,Pacific,5095,megawatthours
+2025-10-10,CAL,California,SUN,Solar,Pacific,103543,megawatthours
+2025-10-10,CAL,California,WAT,Hydro,Pacific,73096,megawatthours
+2025-10-10,CAL,California,WND,Wind,Pacific,33257,megawatthours
+2025-10-11,CAL,California,BAT,Battery storage,Pacific,-146,megawatthours
+2025-10-11,CAL,California,COL,Coal,Pacific,4766,megawatthours
+2025-10-11,CAL,California,GEO,Geothermal,Pacific,10387,megawatthours
+2025-10-11,CAL,California,NG,Natural Gas,Pacific,218126,megawatthours
+2025-10-11,CAL,California,NUC,Nuclear,Pacific,27302,megawatthours
+2025-10-11,CAL,California,OIL,Petroleum,Pacific,-24,megawatthours
+2025-10-11,CAL,California,OTH,Other,Pacific,-1701,megawatthours
+2025-10-11,CAL,California,PS,Pumped storage,Pacific,2455,megawatthours
+2025-10-11,CAL,California,SNB,Solar with integrated battery storage,Pacific,3289,megawatthours
+2025-10-11,CAL,California,SUN,Solar,Pacific,148902,megawatthours
+2025-10-11,CAL,California,WAT,Hydro,Pacific,55837,megawatthours
+2025-10-11,CAL,California,WND,Wind,Pacific,92267,megawatthours
+2025-10-12,CAL,California,BAT,Battery storage,Pacific,-9,megawatthours
+2025-10-12,CAL,California,COL,Coal,Pacific,4820,megawatthours
+2025-10-12,CAL,California,GEO,Geothermal,Pacific,10893,megawatthours
+2025-10-12,CAL,California,NG,Natural Gas,Pacific,210159,megawatthours
+2025-10-12,CAL,California,NUC,Nuclear,Pacific,27326,megawatthours
+2025-10-12,CAL,California,OIL,Petroleum,Pacific,-72,megawatthours
+2025-10-12,CAL,California,OTH,Other,Pacific,1276,megawatthours
+2025-10-12,CAL,California,PS,Pumped storage,Pacific,2774,megawatthours
+2025-10-12,CAL,California,SNB,Solar with integrated battery storage,Pacific,4495,megawatthours
+2025-10-12,CAL,California,SUN,Solar,Pacific,154953,megawatthours
+2025-10-12,CAL,California,WAT,Hydro,Pacific,54466,megawatthours
+2025-10-12,CAL,California,WND,Wind,Pacific,51951,megawatthours
+2025-10-13,CAL,California,BAT,Battery storage,Pacific,-79,megawatthours
+2025-10-13,CAL,California,COL,Coal,Pacific,5506,megawatthours
+2025-10-13,CAL,California,GEO,Geothermal,Pacific,10971,megawatthours
+2025-10-13,CAL,California,NG,Natural Gas,Pacific,294458,megawatthours
+2025-10-13,CAL,California,NUC,Nuclear,Pacific,27332,megawatthours
+2025-10-13,CAL,California,OIL,Petroleum,Pacific,713,megawatthours
+2025-10-13,CAL,California,OTH,Other,Pacific,-1223,megawatthours
+2025-10-13,CAL,California,PS,Pumped storage,Pacific,2793,megawatthours
+2025-10-13,CAL,California,SNB,Solar with integrated battery storage,Pacific,4367,megawatthours
+2025-10-13,CAL,California,SUN,Solar,Pacific,122294,megawatthours
+2025-10-13,CAL,California,WAT,Hydro,Pacific,65418,megawatthours
+2025-10-13,CAL,California,WND,Wind,Pacific,65979,megawatthours
+2025-10-14,CAL,California,BAT,Battery storage,Pacific,-217,megawatthours
+2025-10-14,CAL,California,COL,Coal,Pacific,8607,megawatthours
+2025-10-14,CAL,California,GEO,Geothermal,Pacific,10759,megawatthours
+2025-10-14,CAL,California,NG,Natural Gas,Pacific,337318,megawatthours
+2025-10-14,CAL,California,NUC,Nuclear,Pacific,27285,megawatthours
+2025-10-14,CAL,California,OIL,Petroleum,Pacific,1095,megawatthours
+2025-10-14,CAL,California,OTH,Other,Pacific,-2377,megawatthours
+2025-10-14,CAL,California,PS,Pumped storage,Pacific,2489,megawatthours
+2025-10-14,CAL,California,SNB,Solar with integrated battery storage,Pacific,1089,megawatthours
+2025-10-14,CAL,California,SUN,Solar,Pacific,95835,megawatthours
+2025-10-14,CAL,California,WAT,Hydro,Pacific,64783,megawatthours
+2025-10-14,CAL,California,WND,Wind,Pacific,49354,megawatthours
+2025-10-15,CAL,California,BAT,Battery storage,Pacific,-321,megawatthours
+2025-10-15,CAL,California,COL,Coal,Pacific,7578,megawatthours
+2025-10-15,CAL,California,GEO,Geothermal,Pacific,10867,megawatthours
+2025-10-15,CAL,California,NG,Natural Gas,Pacific,307582,megawatthours
+2025-10-15,CAL,California,NUC,Nuclear,Pacific,27286,megawatthours
+2025-10-15,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-15,CAL,California,OTH,Other,Pacific,-2381,megawatthours
+2025-10-15,CAL,California,PS,Pumped storage,Pacific,2075,megawatthours
+2025-10-15,CAL,California,SNB,Solar with integrated battery storage,Pacific,5330,megawatthours
+2025-10-15,CAL,California,SUN,Solar,Pacific,147715,megawatthours
+2025-10-15,CAL,California,WAT,Hydro,Pacific,49144,megawatthours
+2025-10-15,CAL,California,WND,Wind,Pacific,59005,megawatthours
+2025-10-16,CAL,California,BAT,Battery storage,Pacific,-320,megawatthours
+2025-10-16,CAL,California,COL,Coal,Pacific,7710,megawatthours
+2025-10-16,CAL,California,GEO,Geothermal,Pacific,10953,megawatthours
+2025-10-16,CAL,California,NG,Natural Gas,Pacific,285341,megawatthours
+2025-10-16,CAL,California,NUC,Nuclear,Pacific,27293,megawatthours
+2025-10-16,CAL,California,OIL,Petroleum,Pacific,1093,megawatthours
+2025-10-16,CAL,California,OTH,Other,Pacific,-6190,megawatthours
+2025-10-16,CAL,California,PS,Pumped storage,Pacific,4581,megawatthours
+2025-10-16,CAL,California,SNB,Solar with integrated battery storage,Pacific,5078,megawatthours
+2025-10-16,CAL,California,SUN,Solar,Pacific,156983,megawatthours
+2025-10-16,CAL,California,WAT,Hydro,Pacific,46486,megawatthours
+2025-10-16,CAL,California,WND,Wind,Pacific,25457,megawatthours
+2025-10-17,CAL,California,BAT,Battery storage,Pacific,218,megawatthours
+2025-10-17,CAL,California,COL,Coal,Pacific,8298,megawatthours
+2025-10-17,CAL,California,GEO,Geothermal,Pacific,10815,megawatthours
+2025-10-17,CAL,California,NG,Natural Gas,Pacific,253019,megawatthours
+2025-10-17,CAL,California,NUC,Nuclear,Pacific,27261,megawatthours
+2025-10-17,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-17,CAL,California,OTH,Other,Pacific,963,megawatthours
+2025-10-17,CAL,California,PS,Pumped storage,Pacific,4448,megawatthours
+2025-10-17,CAL,California,SNB,Solar with integrated battery storage,Pacific,4856,megawatthours
+2025-10-17,CAL,California,SUN,Solar,Pacific,151015,megawatthours
+2025-10-17,CAL,California,WAT,Hydro,Pacific,48549,megawatthours
+2025-10-17,CAL,California,WND,Wind,Pacific,18440,megawatthours
+2025-10-18,CAL,California,BAT,Battery storage,Pacific,202,megawatthours
+2025-10-18,CAL,California,COL,Coal,Pacific,8484,megawatthours
+2025-10-18,CAL,California,GEO,Geothermal,Pacific,10917,megawatthours
+2025-10-18,CAL,California,NG,Natural Gas,Pacific,266691,megawatthours
+2025-10-18,CAL,California,NUC,Nuclear,Pacific,27256,megawatthours
+2025-10-18,CAL,California,OIL,Petroleum,Pacific,1098,megawatthours
+2025-10-18,CAL,California,OTH,Other,Pacific,-136,megawatthours
+2025-10-18,CAL,California,PS,Pumped storage,Pacific,3654,megawatthours
+2025-10-18,CAL,California,SNB,Solar with integrated battery storage,Pacific,5174,megawatthours
+2025-10-18,CAL,California,SUN,Solar,Pacific,147109,megawatthours
+2025-10-18,CAL,California,WAT,Hydro,Pacific,42104,megawatthours
+2025-10-18,CAL,California,WND,Wind,Pacific,23786,megawatthours
+2025-10-19,CAL,California,BAT,Battery storage,Pacific,-643,megawatthours
+2025-10-19,CAL,California,COL,Coal,Pacific,6987,megawatthours
+2025-10-19,CAL,California,GEO,Geothermal,Pacific,11025,megawatthours
+2025-10-19,CAL,California,NG,Natural Gas,Pacific,245675,megawatthours
+2025-10-19,CAL,California,NUC,Nuclear,Pacific,27234,megawatthours
+2025-10-19,CAL,California,OIL,Petroleum,Pacific,1093,megawatthours
+2025-10-19,CAL,California,OTH,Other,Pacific,-18090,megawatthours
+2025-10-19,CAL,California,PS,Pumped storage,Pacific,2555,megawatthours
+2025-10-19,CAL,California,SNB,Solar with integrated battery storage,Pacific,4829,megawatthours
+2025-10-19,CAL,California,SUN,Solar,Pacific,130554,megawatthours
+2025-10-19,CAL,California,WAT,Hydro,Pacific,42687,megawatthours
+2025-10-19,CAL,California,WND,Wind,Pacific,40985,megawatthours
+2025-10-20,CAL,California,BAT,Battery storage,Pacific,130,megawatthours
+2025-10-20,CAL,California,COL,Coal,Pacific,8434,megawatthours
+2025-10-20,CAL,California,GEO,Geothermal,Pacific,10280,megawatthours
+2025-10-20,CAL,California,NG,Natural Gas,Pacific,283396,megawatthours
+2025-10-20,CAL,California,NUC,Nuclear,Pacific,27238,megawatthours
+2025-10-20,CAL,California,OIL,Petroleum,Pacific,1097,megawatthours
+2025-10-20,CAL,California,OTH,Other,Pacific,4362,megawatthours
+2025-10-20,CAL,California,PS,Pumped storage,Pacific,2167,megawatthours
+2025-10-20,CAL,California,SNB,Solar with integrated battery storage,Pacific,4649,megawatthours
+2025-10-20,CAL,California,SUN,Solar,Pacific,149575,megawatthours
+2025-10-20,CAL,California,WAT,Hydro,Pacific,43109,megawatthours
+2025-10-20,CAL,California,WND,Wind,Pacific,42804,megawatthours
+2025-10-21,CAL,California,BAT,Battery storage,Pacific,292,megawatthours
+2025-10-21,CAL,California,COL,Coal,Pacific,8312,megawatthours
+2025-10-21,CAL,California,GEO,Geothermal,Pacific,10125,megawatthours
+2025-10-21,CAL,California,NG,Natural Gas,Pacific,346487,megawatthours
+2025-10-21,CAL,California,NUC,Nuclear,Pacific,27180,megawatthours
+2025-10-21,CAL,California,OIL,Petroleum,Pacific,1103,megawatthours
+2025-10-21,CAL,California,OTH,Other,Pacific,5612,megawatthours
+2025-10-21,CAL,California,PS,Pumped storage,Pacific,3132,megawatthours
+2025-10-21,CAL,California,SNB,Solar with integrated battery storage,Pacific,4401,megawatthours
+2025-10-21,CAL,California,SUN,Solar,Pacific,129348,megawatthours
+2025-10-21,CAL,California,WAT,Hydro,Pacific,47912,megawatthours
+2025-10-21,CAL,California,WND,Wind,Pacific,14072,megawatthours
+2025-10-22,CAL,California,BAT,Battery storage,Pacific,-190,megawatthours
+2025-10-22,CAL,California,COL,Coal,Pacific,5855,megawatthours
+2025-10-22,CAL,California,GEO,Geothermal,Pacific,10535,megawatthours
+2025-10-22,CAL,California,NG,Natural Gas,Pacific,314266,megawatthours
+2025-10-22,CAL,California,NUC,Nuclear,Pacific,27144,megawatthours
+2025-10-22,CAL,California,OIL,Petroleum,Pacific,1098,megawatthours
+2025-10-22,CAL,California,OTH,Other,Pacific,-7790,megawatthours
+2025-10-22,CAL,California,PS,Pumped storage,Pacific,1091,megawatthours
+2025-10-22,CAL,California,SNB,Solar with integrated battery storage,Pacific,4740,megawatthours
+2025-10-22,CAL,California,SUN,Solar,Pacific,129046,megawatthours
+2025-10-22,CAL,California,WAT,Hydro,Pacific,51580,megawatthours
+2025-10-22,CAL,California,WND,Wind,Pacific,81941,megawatthours
+2025-10-23,CAL,California,BAT,Battery storage,Pacific,-514,megawatthours
+2025-10-23,CAL,California,COL,Coal,Pacific,7095,megawatthours
+2025-10-23,CAL,California,GEO,Geothermal,Pacific,10521,megawatthours
+2025-10-23,CAL,California,NG,Natural Gas,Pacific,278427,megawatthours
+2025-10-23,CAL,California,NUC,Nuclear,Pacific,27216,megawatthours
+2025-10-23,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-23,CAL,California,OTH,Other,Pacific,-1257,megawatthours
+2025-10-23,CAL,California,PS,Pumped storage,Pacific,4227,megawatthours
+2025-10-23,CAL,California,SNB,Solar with integrated battery storage,Pacific,4483,megawatthours
+2025-10-23,CAL,California,SUN,Solar,Pacific,150403,megawatthours
+2025-10-23,CAL,California,WAT,Hydro,Pacific,48905,megawatthours
+2025-10-23,CAL,California,WND,Wind,Pacific,64569,megawatthours
+2025-10-24,CAL,California,BAT,Battery storage,Pacific,-133,megawatthours
+2025-10-24,CAL,California,COL,Coal,Pacific,7528,megawatthours
+2025-10-24,CAL,California,GEO,Geothermal,Pacific,10845,megawatthours
+2025-10-24,CAL,California,NG,Natural Gas,Pacific,295454,megawatthours
+2025-10-24,CAL,California,NUC,Nuclear,Pacific,27293,megawatthours
+2025-10-24,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-24,CAL,California,OTH,Other,Pacific,-2768,megawatthours
+2025-10-24,CAL,California,PS,Pumped storage,Pacific,3098,megawatthours
+2025-10-24,CAL,California,SNB,Solar with integrated battery storage,Pacific,4436,megawatthours
+2025-10-24,CAL,California,SUN,Solar,Pacific,153702,megawatthours
+2025-10-24,CAL,California,WAT,Hydro,Pacific,56026,megawatthours
+2025-10-24,CAL,California,WND,Wind,Pacific,34462,megawatthours
+2025-10-25,CAL,California,BAT,Battery storage,Pacific,0,megawatthours
+2025-10-25,CAL,California,COL,Coal,Pacific,8050,megawatthours
+2025-10-25,CAL,California,GEO,Geothermal,Pacific,10803,megawatthours
+2025-10-25,CAL,California,NG,Natural Gas,Pacific,249005,megawatthours
+2025-10-25,CAL,California,NUC,Nuclear,Pacific,27299,megawatthours
+2025-10-25,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-25,CAL,California,OTH,Other,Pacific,-212,megawatthours
+2025-10-25,CAL,California,PS,Pumped storage,Pacific,1488,megawatthours
+2025-10-25,CAL,California,SNB,Solar with integrated battery storage,Pacific,4224,megawatthours
+2025-10-25,CAL,California,SUN,Solar,Pacific,138415,megawatthours
+2025-10-25,CAL,California,WAT,Hydro,Pacific,55314,megawatthours
+2025-10-25,CAL,California,WND,Wind,Pacific,62261,megawatthours
+2025-10-26,CAL,California,BAT,Battery storage,Pacific,-35,megawatthours
+2025-10-26,CAL,California,COL,Coal,Pacific,7299,megawatthours
+2025-10-26,CAL,California,GEO,Geothermal,Pacific,10796,megawatthours
+2025-10-26,CAL,California,NG,Natural Gas,Pacific,210088,megawatthours
+2025-10-26,CAL,California,NUC,Nuclear,Pacific,27298,megawatthours
+2025-10-26,CAL,California,OIL,Petroleum,Pacific,1102,megawatthours
+2025-10-26,CAL,California,OTH,Other,Pacific,-6714,megawatthours
+2025-10-26,CAL,California,PS,Pumped storage,Pacific,1270,megawatthours
+2025-10-26,CAL,California,SNB,Solar with integrated battery storage,Pacific,3733,megawatthours
+2025-10-26,CAL,California,SUN,Solar,Pacific,128662,megawatthours
+2025-10-26,CAL,California,WAT,Hydro,Pacific,51918,megawatthours
+2025-10-26,CAL,California,WND,Wind,Pacific,101381,megawatthours
+2025-10-27,CAL,California,BAT,Battery storage,Pacific,28,megawatthours
+2025-10-27,CAL,California,COL,Coal,Pacific,9234,megawatthours
+2025-10-27,CAL,California,GEO,Geothermal,Pacific,10774,megawatthours
+2025-10-27,CAL,California,NG,Natural Gas,Pacific,266904,megawatthours
+2025-10-27,CAL,California,NUC,Nuclear,Pacific,27314,megawatthours
+2025-10-27,CAL,California,OIL,Petroleum,Pacific,1100,megawatthours
+2025-10-27,CAL,California,OTH,Other,Pacific,2280,megawatthours
+2025-10-27,CAL,California,PS,Pumped storage,Pacific,1014,megawatthours
+2025-10-27,CAL,California,SNB,Solar with integrated battery storage,Pacific,4709,megawatthours
+2025-10-27,CAL,California,SUN,Solar,Pacific,138730,megawatthours
+2025-10-27,CAL,California,WAT,Hydro,Pacific,53980,megawatthours
+2025-10-27,CAL,California,WND,Wind,Pacific,68411,megawatthours
+2025-10-28,CAL,California,BAT,Battery storage,Pacific,-21,megawatthours
+2025-10-28,CAL,California,COL,Coal,Pacific,9910,megawatthours
+2025-10-28,CAL,California,GEO,Geothermal,Pacific,9421,megawatthours
+2025-10-28,CAL,California,NG,Natural Gas,Pacific,330221,megawatthours
+2025-10-28,CAL,California,NUC,Nuclear,Pacific,27315,megawatthours
+2025-10-28,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-28,CAL,California,OTH,Other,Pacific,458,megawatthours
+2025-10-28,CAL,California,PS,Pumped storage,Pacific,741,megawatthours
+2025-10-28,CAL,California,SNB,Solar with integrated battery storage,Pacific,4747,megawatthours
+2025-10-28,CAL,California,SUN,Solar,Pacific,151145,megawatthours
+2025-10-28,CAL,California,WAT,Hydro,Pacific,58909,megawatthours
+2025-10-28,CAL,California,WND,Wind,Pacific,34068,megawatthours
+2025-10-29,CAL,California,BAT,Battery storage,Pacific,-374,megawatthours
+2025-10-29,CAL,California,COL,Coal,Pacific,13246,megawatthours
+2025-10-29,CAL,California,GEO,Geothermal,Pacific,9575,megawatthours
+2025-10-29,CAL,California,NG,Natural Gas,Pacific,341825,megawatthours
+2025-10-29,CAL,California,NUC,Nuclear,Pacific,27269,megawatthours
+2025-10-29,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-10-29,CAL,California,OTH,Other,Pacific,-872,megawatthours
+2025-10-29,CAL,California,PS,Pumped storage,Pacific,635,megawatthours
+2025-10-29,CAL,California,SNB,Solar with integrated battery storage,Pacific,4584,megawatthours
+2025-10-29,CAL,California,SUN,Solar,Pacific,149501,megawatthours
+2025-10-29,CAL,California,WAT,Hydro,Pacific,57346,megawatthours
+2025-10-29,CAL,California,WND,Wind,Pacific,15121,megawatthours
+2025-10-30,CAL,California,BAT,Battery storage,Pacific,377,megawatthours
+2025-10-30,CAL,California,COL,Coal,Pacific,13594,megawatthours
+2025-10-30,CAL,California,GEO,Geothermal,Pacific,9622,megawatthours
+2025-10-30,CAL,California,NG,Natural Gas,Pacific,343219,megawatthours
+2025-10-30,CAL,California,NUC,Nuclear,Pacific,27282,megawatthours
+2025-10-30,CAL,California,OIL,Petroleum,Pacific,1016,megawatthours
+2025-10-30,CAL,California,OTH,Other,Pacific,2680,megawatthours
+2025-10-30,CAL,California,PS,Pumped storage,Pacific,574,megawatthours
+2025-10-30,CAL,California,SNB,Solar with integrated battery storage,Pacific,4732,megawatthours
+2025-10-30,CAL,California,SUN,Solar,Pacific,147695,megawatthours
+2025-10-30,CAL,California,WAT,Hydro,Pacific,55141,megawatthours
+2025-10-30,CAL,California,WND,Wind,Pacific,21745,megawatthours
+2025-10-31,CAL,California,BAT,Battery storage,Pacific,-434,megawatthours
+2025-10-31,CAL,California,COL,Coal,Pacific,12870,megawatthours
+2025-10-31,CAL,California,GEO,Geothermal,Pacific,9397,megawatthours
+2025-10-31,CAL,California,NG,Natural Gas,Pacific,321974,megawatthours
+2025-10-31,CAL,California,NUC,Nuclear,Pacific,27331,megawatthours
+2025-10-31,CAL,California,OIL,Petroleum,Pacific,1099,megawatthours
+2025-10-31,CAL,California,OTH,Other,Pacific,-7956,megawatthours
+2025-10-31,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-10-31,CAL,California,SNB,Solar with integrated battery storage,Pacific,4572,megawatthours
+2025-10-31,CAL,California,SUN,Solar,Pacific,145227,megawatthours
+2025-10-31,CAL,California,WAT,Hydro,Pacific,57322,megawatthours
+2025-10-31,CAL,California,WND,Wind,Pacific,26992,megawatthours
+2025-11-01,CAL,California,BAT,Battery storage,Pacific,354,megawatthours
+2025-11-01,CAL,California,COL,Coal,Pacific,11529,megawatthours
+2025-11-01,CAL,California,GEO,Geothermal,Pacific,8804,megawatthours
+2025-11-01,CAL,California,NG,Natural Gas,Pacific,314424,megawatthours
+2025-11-01,CAL,California,NUC,Nuclear,Pacific,27330,megawatthours
+2025-11-01,CAL,California,OIL,Petroleum,Pacific,1096,megawatthours
+2025-11-01,CAL,California,OTH,Other,Pacific,-5965,megawatthours
+2025-11-01,CAL,California,PS,Pumped storage,Pacific,1626,megawatthours
+2025-11-01,CAL,California,SNB,Solar with integrated battery storage,Pacific,4529,megawatthours
+2025-11-01,CAL,California,SUN,Solar,Pacific,145409,megawatthours
+2025-11-01,CAL,California,WAT,Hydro,Pacific,58926,megawatthours
+2025-11-01,CAL,California,WND,Wind,Pacific,22921,megawatthours
+2025-11-02,CAL,California,BAT,Battery storage,Pacific,-88,megawatthours
+2025-11-02,CAL,California,COL,Coal,Pacific,9952,megawatthours
+2025-11-02,CAL,California,GEO,Geothermal,Pacific,9546,megawatthours
+2025-11-02,CAL,California,NG,Natural Gas,Pacific,250892,megawatthours
+2025-11-02,CAL,California,NUC,Nuclear,Pacific,28418,megawatthours
+2025-11-02,CAL,California,OIL,Petroleum,Pacific,1150,megawatthours
+2025-11-02,CAL,California,OTH,Other,Pacific,-3843,megawatthours
+2025-11-02,CAL,California,PS,Pumped storage,Pacific,2130,megawatthours
+2025-11-02,CAL,California,SNB,Solar with integrated battery storage,Pacific,4501,megawatthours
+2025-11-02,CAL,California,SUN,Solar,Pacific,141146,megawatthours
+2025-11-02,CAL,California,WAT,Hydro,Pacific,57315,megawatthours
+2025-11-02,CAL,California,WND,Wind,Pacific,24994,megawatthours
+2025-11-03,CAL,California,BAT,Battery storage,Pacific,-437,megawatthours
+2025-11-03,CAL,California,COL,Coal,Pacific,12362,megawatthours
+2025-11-03,CAL,California,GEO,Geothermal,Pacific,9367,megawatthours
+2025-11-03,CAL,California,NG,Natural Gas,Pacific,304317,megawatthours
+2025-11-03,CAL,California,NUC,Nuclear,Pacific,27202,megawatthours
+2025-11-03,CAL,California,OIL,Petroleum,Pacific,1102,megawatthours
+2025-11-03,CAL,California,OTH,Other,Pacific,-467,megawatthours
+2025-11-03,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-11-03,CAL,California,SNB,Solar with integrated battery storage,Pacific,4435,megawatthours
+2025-11-03,CAL,California,SUN,Solar,Pacific,137686,megawatthours
+2025-11-03,CAL,California,WAT,Hydro,Pacific,57692,megawatthours
+2025-11-03,CAL,California,WND,Wind,Pacific,41482,megawatthours
+2025-11-04,CAL,California,BAT,Battery storage,Pacific,-172,megawatthours
+2025-11-04,CAL,California,COL,Coal,Pacific,11752,megawatthours
+2025-11-04,CAL,California,GEO,Geothermal,Pacific,10223,megawatthours
+2025-11-04,CAL,California,NG,Natural Gas,Pacific,304066,megawatthours
+2025-11-04,CAL,California,NUC,Nuclear,Pacific,27226,megawatthours
+2025-11-04,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-11-04,CAL,California,OTH,Other,Pacific,-4202,megawatthours
+2025-11-04,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-11-04,CAL,California,SNB,Solar with integrated battery storage,Pacific,4607,megawatthours
+2025-11-04,CAL,California,SUN,Solar,Pacific,139757,megawatthours
+2025-11-04,CAL,California,WAT,Hydro,Pacific,50801,megawatthours
+2025-11-04,CAL,California,WND,Wind,Pacific,48875,megawatthours
+2025-11-05,CAL,California,BAT,Battery storage,Pacific,338,megawatthours
+2025-11-05,CAL,California,COL,Coal,Pacific,12569,megawatthours
+2025-11-05,CAL,California,GEO,Geothermal,Pacific,10447,megawatthours
+2025-11-05,CAL,California,NG,Natural Gas,Pacific,287478,megawatthours
+2025-11-05,CAL,California,NUC,Nuclear,Pacific,31641,megawatthours
+2025-11-05,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
+2025-11-05,CAL,California,OTH,Other,Pacific,2228,megawatthours
+2025-11-05,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-11-05,CAL,California,SNB,Solar with integrated battery storage,Pacific,3841,megawatthours
+2025-11-05,CAL,California,SUN,Solar,Pacific,109940,megawatthours
+2025-11-05,CAL,California,WAT,Hydro,Pacific,55585,megawatthours
+2025-11-05,CAL,California,WND,Wind,Pacific,66376,megawatthours
+2025-11-06,CAL,California,BAT,Battery storage,Pacific,331,megawatthours
+2025-11-06,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-11-06,CAL,California,GEO,Geothermal,Pacific,10432,megawatthours
+2025-11-06,CAL,California,NG,Natural Gas,Pacific,264855,megawatthours
+2025-11-06,CAL,California,NUC,Nuclear,Pacific,32040,megawatthours
+2025-11-06,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
+2025-11-06,CAL,California,OTH,Other,Pacific,2890,megawatthours
+2025-11-06,CAL,California,SNB,Solar with integrated battery storage,Pacific,304,megawatthours
+2025-11-06,CAL,California,SUN,Solar,Pacific,103734,megawatthours
+2025-11-06,CAL,California,WAT,Hydro,Pacific,54153,megawatthours
+2025-11-06,CAL,California,WND,Wind,Pacific,58974,megawatthours
+2025-11-07,CAL,California,BAT,Battery storage,Pacific,-118,megawatthours
+2025-11-07,CAL,California,COL,Coal,Pacific,12668,megawatthours
+2025-11-07,CAL,California,GEO,Geothermal,Pacific,10494,megawatthours
+2025-11-07,CAL,California,NG,Natural Gas,Pacific,257548,megawatthours
+2025-11-07,CAL,California,NUC,Nuclear,Pacific,39524,megawatthours
+2025-11-07,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-11-07,CAL,California,OTH,Other,Pacific,-944,megawatthours
+2025-11-07,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-11-07,CAL,California,SNB,Solar with integrated battery storage,Pacific,4034,megawatthours
+2025-11-07,CAL,California,SUN,Solar,Pacific,130624,megawatthours
+2025-11-07,CAL,California,WAT,Hydro,Pacific,39501,megawatthours
+2025-11-07,CAL,California,WND,Wind,Pacific,91940,megawatthours
+2025-11-08,CAL,California,BAT,Battery storage,Pacific,-41,megawatthours
+2025-11-08,CAL,California,COL,Coal,Pacific,12488,megawatthours
+2025-11-08,CAL,California,GEO,Geothermal,Pacific,10589,megawatthours
+2025-11-08,CAL,California,NG,Natural Gas,Pacific,271434,megawatthours
+2025-11-08,CAL,California,NUC,Nuclear,Pacific,53468,megawatthours
+2025-11-08,CAL,California,OIL,Petroleum,Pacific,1092,megawatthours
+2025-11-08,CAL,California,OTH,Other,Pacific,1936,megawatthours
+2025-11-08,CAL,California,PS,Pumped storage,Pacific,3302,megawatthours
+2025-11-08,CAL,California,SNB,Solar with integrated battery storage,Pacific,4159,megawatthours
+2025-11-08,CAL,California,SUN,Solar,Pacific,137827,megawatthours
+2025-11-08,CAL,California,WAT,Hydro,Pacific,37464,megawatthours
+2025-11-08,CAL,California,WND,Wind,Pacific,46580,megawatthours
+2025-11-09,CAL,California,BAT,Battery storage,Pacific,-91,megawatthours
+2025-11-09,CAL,California,COL,Coal,Pacific,12493,megawatthours
+2025-11-09,CAL,California,GEO,Geothermal,Pacific,10563,megawatthours
+2025-11-09,CAL,California,NG,Natural Gas,Pacific,279811,megawatthours
+2025-11-09,CAL,California,NUC,Nuclear,Pacific,54324,megawatthours
+2025-11-09,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
+2025-11-09,CAL,California,OTH,Other,Pacific,-195,megawatthours
+2025-11-09,CAL,California,PS,Pumped storage,Pacific,3951,megawatthours
+2025-11-09,CAL,California,SNB,Solar with integrated battery storage,Pacific,4301,megawatthours
+2025-11-09,CAL,California,SUN,Solar,Pacific,136706,megawatthours
+2025-11-09,CAL,California,WAT,Hydro,Pacific,41067,megawatthours
+2025-11-09,CAL,California,WND,Wind,Pacific,24913,megawatthours
+2025-11-10,CAL,California,BAT,Battery storage,Pacific,66,megawatthours
+2025-11-10,CAL,California,COL,Coal,Pacific,11151,megawatthours
+2025-11-10,CAL,California,GEO,Geothermal,Pacific,10468,megawatthours
+2025-11-10,CAL,California,NG,Natural Gas,Pacific,270492,megawatthours
+2025-11-10,CAL,California,NUC,Nuclear,Pacific,54337,megawatthours
+2025-11-10,CAL,California,OIL,Petroleum,Pacific,1102,megawatthours
+2025-11-10,CAL,California,OTH,Other,Pacific,-1554,megawatthours
+2025-11-10,CAL,California,PS,Pumped storage,Pacific,3628,megawatthours
+2025-11-10,CAL,California,SNB,Solar with integrated battery storage,Pacific,4259,megawatthours
+2025-11-10,CAL,California,SUN,Solar,Pacific,137903,megawatthours
+2025-11-10,CAL,California,WAT,Hydro,Pacific,46399,megawatthours
+2025-11-10,CAL,California,WND,Wind,Pacific,22351,megawatthours
+2025-11-11,CAL,California,BAT,Battery storage,Pacific,-554,megawatthours
+2025-11-11,CAL,California,COL,Coal,Pacific,12481,megawatthours
+2025-11-11,CAL,California,GEO,Geothermal,Pacific,10376,megawatthours
+2025-11-11,CAL,California,NG,Natural Gas,Pacific,317138,megawatthours
+2025-11-11,CAL,California,NUC,Nuclear,Pacific,54378,megawatthours
+2025-11-11,CAL,California,OIL,Petroleum,Pacific,1102,megawatthours
+2025-11-11,CAL,California,OTH,Other,Pacific,-4000,megawatthours
+2025-11-11,CAL,California,PS,Pumped storage,Pacific,1199,megawatthours
+2025-11-11,CAL,California,SNB,Solar with integrated battery storage,Pacific,4307,megawatthours
+2025-11-11,CAL,California,SUN,Solar,Pacific,131054,megawatthours
+2025-11-11,CAL,California,WAT,Hydro,Pacific,50246,megawatthours
+2025-11-11,CAL,California,WND,Wind,Pacific,20688,megawatthours
+2025-11-12,CAL,California,BAT,Battery storage,Pacific,95,megawatthours
+2025-11-12,CAL,California,COL,Coal,Pacific,14371,megawatthours
+2025-11-12,CAL,California,GEO,Geothermal,Pacific,10386,megawatthours
+2025-11-12,CAL,California,NG,Natural Gas,Pacific,327636,megawatthours
+2025-11-12,CAL,California,NUC,Nuclear,Pacific,54399,megawatthours
+2025-11-12,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-11-12,CAL,California,OTH,Other,Pacific,4197,megawatthours
+2025-11-12,CAL,California,PS,Pumped storage,Pacific,1251,megawatthours
+2025-11-12,CAL,California,SNB,Solar with integrated battery storage,Pacific,2896,megawatthours
+2025-11-12,CAL,California,SUN,Solar,Pacific,91811,megawatthours
+2025-11-12,CAL,California,WAT,Hydro,Pacific,53450,megawatthours
+2025-11-12,CAL,California,WND,Wind,Pacific,24751,megawatthours
+2025-11-13,CAL,California,BAT,Battery storage,Pacific,204,megawatthours
+2025-11-13,CAL,California,COL,Coal,Pacific,13203,megawatthours
+2025-11-13,CAL,California,GEO,Geothermal,Pacific,10427,megawatthours
+2025-11-13,CAL,California,NG,Natural Gas,Pacific,352540,megawatthours
+2025-11-13,CAL,California,NUC,Nuclear,Pacific,54382,megawatthours
+2025-11-13,CAL,California,OIL,Petroleum,Pacific,1103,megawatthours
+2025-11-13,CAL,California,OTH,Other,Pacific,1859,megawatthours
+2025-11-13,CAL,California,PS,Pumped storage,Pacific,1561,megawatthours
+2025-11-13,CAL,California,SNB,Solar with integrated battery storage,Pacific,1790,megawatthours
+2025-11-13,CAL,California,SUN,Solar,Pacific,67472,megawatthours
+2025-11-13,CAL,California,WAT,Hydro,Pacific,59153,megawatthours
+2025-11-13,CAL,California,WND,Wind,Pacific,24364,megawatthours
+2025-11-14,CAL,California,BAT,Battery storage,Pacific,-643,megawatthours
+2025-11-14,CAL,California,COL,Coal,Pacific,12215,megawatthours
+2025-11-14,CAL,California,GEO,Geothermal,Pacific,10442,megawatthours
+2025-11-14,CAL,California,NG,Natural Gas,Pacific,309574,megawatthours
+2025-11-14,CAL,California,NUC,Nuclear,Pacific,54352,megawatthours
+2025-11-14,CAL,California,OIL,Petroleum,Pacific,1099,megawatthours
+2025-11-14,CAL,California,OTH,Other,Pacific,-9452,megawatthours
+2025-11-14,CAL,California,PS,Pumped storage,Pacific,2347,megawatthours
+2025-11-14,CAL,California,SNB,Solar with integrated battery storage,Pacific,3119,megawatthours
+2025-11-14,CAL,California,SUN,Solar,Pacific,98776,megawatthours
+2025-11-14,CAL,California,WAT,Hydro,Pacific,53128,megawatthours
+2025-11-14,CAL,California,WND,Wind,Pacific,61635,megawatthours
+2025-11-15,CAL,California,BAT,Battery storage,Pacific,460,megawatthours
+2025-11-15,CAL,California,COL,Coal,Pacific,11560,megawatthours
+2025-11-15,CAL,California,GEO,Geothermal,Pacific,10371,megawatthours
+2025-11-15,CAL,California,NG,Natural Gas,Pacific,321179,megawatthours
+2025-11-15,CAL,California,NUC,Nuclear,Pacific,54284,megawatthours
+2025-11-15,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-11-15,CAL,California,OTH,Other,Pacific,6475,megawatthours
+2025-11-15,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-11-15,CAL,California,SNB,Solar with integrated battery storage,Pacific,965,megawatthours
+2025-11-15,CAL,California,SUN,Solar,Pacific,43321,megawatthours
+2025-11-15,CAL,California,WAT,Hydro,Pacific,54281,megawatthours
+2025-11-15,CAL,California,WND,Wind,Pacific,34576,megawatthours
+2025-11-16,CAL,California,BAT,Battery storage,Pacific,-36,megawatthours
+2025-11-16,CAL,California,COL,Coal,Pacific,10941,megawatthours
+2025-11-16,CAL,California,GEO,Geothermal,Pacific,10186,megawatthours
+2025-11-16,CAL,California,NG,Natural Gas,Pacific,308957,megawatthours
+2025-11-16,CAL,California,NUC,Nuclear,Pacific,54287,megawatthours
+2025-11-16,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
+2025-11-16,CAL,California,OTH,Other,Pacific,2249,megawatthours
+2025-11-16,CAL,California,PS,Pumped storage,Pacific,1765,megawatthours
+2025-11-16,CAL,California,SNB,Solar with integrated battery storage,Pacific,219,megawatthours
+2025-11-16,CAL,California,SUN,Solar,Pacific,19257,megawatthours
+2025-11-16,CAL,California,WAT,Hydro,Pacific,52929,megawatthours
+2025-11-16,CAL,California,WND,Wind,Pacific,45895,megawatthours
+2025-11-17,CAL,California,BAT,Battery storage,Pacific,-409,megawatthours
+2025-11-17,CAL,California,COL,Coal,Pacific,9709,megawatthours
+2025-11-17,CAL,California,GEO,Geothermal,Pacific,9878,megawatthours
+2025-11-17,CAL,California,NG,Natural Gas,Pacific,264992,megawatthours
+2025-11-17,CAL,California,NUC,Nuclear,Pacific,54261,megawatthours
+2025-11-17,CAL,California,OIL,Petroleum,Pacific,1093,megawatthours
+2025-11-17,CAL,California,OTH,Other,Pacific,-1740,megawatthours
+2025-11-17,CAL,California,PS,Pumped storage,Pacific,1332,megawatthours
+2025-11-17,CAL,California,SNB,Solar with integrated battery storage,Pacific,1293,megawatthours
+2025-11-17,CAL,California,SUN,Solar,Pacific,63816,megawatthours
+2025-11-17,CAL,California,WAT,Hydro,Pacific,39584,megawatthours
+2025-11-17,CAL,California,WND,Wind,Pacific,59236,megawatthours
+2025-11-18,CAL,California,BAT,Battery storage,Pacific,-220,megawatthours
+2025-11-18,CAL,California,COL,Coal,Pacific,10457,megawatthours
+2025-11-18,CAL,California,GEO,Geothermal,Pacific,9386,megawatthours
+2025-11-18,CAL,California,NG,Natural Gas,Pacific,307585,megawatthours
+2025-11-18,CAL,California,NUC,Nuclear,Pacific,54275,megawatthours
+2025-11-18,CAL,California,OIL,Petroleum,Pacific,1076,megawatthours
+2025-11-18,CAL,California,OTH,Other,Pacific,-3007,megawatthours
+2025-11-18,CAL,California,PS,Pumped storage,Pacific,1628,megawatthours
+2025-11-18,CAL,California,SNB,Solar with integrated battery storage,Pacific,1488,megawatthours
+2025-11-18,CAL,California,SUN,Solar,Pacific,59452,megawatthours
+2025-11-18,CAL,California,WAT,Hydro,Pacific,42754,megawatthours
+2025-11-18,CAL,California,WND,Wind,Pacific,53086,megawatthours
+2025-11-19,CAL,California,BAT,Battery storage,Pacific,261,megawatthours
+2025-11-19,CAL,California,COL,Coal,Pacific,14356,megawatthours
+2025-11-19,CAL,California,GEO,Geothermal,Pacific,9521,megawatthours
+2025-11-19,CAL,California,NG,Natural Gas,Pacific,322062,megawatthours
+2025-11-19,CAL,California,NUC,Nuclear,Pacific,54239,megawatthours
+2025-11-19,CAL,California,OIL,Petroleum,Pacific,1098,megawatthours
+2025-11-19,CAL,California,OTH,Other,Pacific,7025,megawatthours
+2025-11-19,CAL,California,PS,Pumped storage,Pacific,1145,megawatthours
+2025-11-19,CAL,California,SNB,Solar with integrated battery storage,Pacific,3451,megawatthours
+2025-11-19,CAL,California,SUN,Solar,Pacific,83148,megawatthours
+2025-11-19,CAL,California,WAT,Hydro,Pacific,44627,megawatthours
+2025-11-19,CAL,California,WND,Wind,Pacific,30062,megawatthours
+2025-11-20,CAL,California,BAT,Battery storage,Pacific,100,megawatthours
+2025-11-20,CAL,California,COL,Coal,Pacific,11846,megawatthours
+2025-11-20,CAL,California,GEO,Geothermal,Pacific,9618,megawatthours
+2025-11-20,CAL,California,NG,Natural Gas,Pacific,357923,megawatthours
+2025-11-20,CAL,California,NUC,Nuclear,Pacific,54197,megawatthours
+2025-11-20,CAL,California,OIL,Petroleum,Pacific,1106,megawatthours
+2025-11-20,CAL,California,OTH,Other,Pacific,2031,megawatthours
+2025-11-20,CAL,California,PS,Pumped storage,Pacific,1106,megawatthours
+2025-11-20,CAL,California,SNB,Solar with integrated battery storage,Pacific,2719,megawatthours
+2025-11-20,CAL,California,SUN,Solar,Pacific,99899,megawatthours
+2025-11-20,CAL,California,WAT,Hydro,Pacific,47956,megawatthours
+2025-11-20,CAL,California,WND,Wind,Pacific,21763,megawatthours
+2025-11-21,CAL,California,BAT,Battery storage,Pacific,-167,megawatthours
+2025-11-21,CAL,California,COL,Coal,Pacific,12161,megawatthours
+2025-11-21,CAL,California,GEO,Geothermal,Pacific,10050,megawatthours
+2025-11-21,CAL,California,NG,Natural Gas,Pacific,372849,megawatthours
+2025-11-21,CAL,California,NUC,Nuclear,Pacific,54174,megawatthours
+2025-11-21,CAL,California,OIL,Petroleum,Pacific,1112,megawatthours
+2025-11-21,CAL,California,OTH,Other,Pacific,-2513,megawatthours
+2025-11-21,CAL,California,PS,Pumped storage,Pacific,545,megawatthours
+2025-11-21,CAL,California,SNB,Solar with integrated battery storage,Pacific,2088,megawatthours
+2025-11-21,CAL,California,SUN,Solar,Pacific,75873,megawatthours
+2025-11-21,CAL,California,WAT,Hydro,Pacific,56668,megawatthours
+2025-11-21,CAL,California,WND,Wind,Pacific,32690,megawatthours
+2025-11-22,CAL,California,BAT,Battery storage,Pacific,53,megawatthours
+2025-11-22,CAL,California,COL,Coal,Pacific,12860,megawatthours
+2025-11-22,CAL,California,GEO,Geothermal,Pacific,10098,megawatthours
+2025-11-22,CAL,California,NG,Natural Gas,Pacific,350549,megawatthours
+2025-11-22,CAL,California,NUC,Nuclear,Pacific,54201,megawatthours
+2025-11-22,CAL,California,OIL,Petroleum,Pacific,656,megawatthours
+2025-11-22,CAL,California,OTH,Other,Pacific,8915,megawatthours
+2025-11-22,CAL,California,PS,Pumped storage,Pacific,184,megawatthours
+2025-11-22,CAL,California,SNB,Solar with integrated battery storage,Pacific,476,megawatthours
+2025-11-22,CAL,California,SUN,Solar,Pacific,31887,megawatthours
+2025-11-22,CAL,California,WAT,Hydro,Pacific,52149,megawatthours
+2025-11-22,CAL,California,WND,Wind,Pacific,41402,megawatthours
+2025-11-23,CAL,California,BAT,Battery storage,Pacific,-11,megawatthours
+2025-11-23,CAL,California,COL,Coal,Pacific,13054,megawatthours
+2025-11-23,CAL,California,GEO,Geothermal,Pacific,10127,megawatthours
+2025-11-23,CAL,California,NG,Natural Gas,Pacific,289873,megawatthours
+2025-11-23,CAL,California,NUC,Nuclear,Pacific,54207,megawatthours
+2025-11-23,CAL,California,OIL,Petroleum,Pacific,1091,megawatthours
+2025-11-23,CAL,California,OTH,Other,Pacific,2605,megawatthours
+2025-11-23,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-11-23,CAL,California,SNB,Solar with integrated battery storage,Pacific,1155,megawatthours
+2025-11-23,CAL,California,SUN,Solar,Pacific,51675,megawatthours
+2025-11-23,CAL,California,WAT,Hydro,Pacific,55507,megawatthours
+2025-11-23,CAL,California,WND,Wind,Pacific,25913,megawatthours
+2025-11-24,CAL,California,BAT,Battery storage,Pacific,-139,megawatthours
+2025-11-24,CAL,California,COL,Coal,Pacific,10091,megawatthours
+2025-11-24,CAL,California,GEO,Geothermal,Pacific,9989,megawatthours
+2025-11-24,CAL,California,NG,Natural Gas,Pacific,239542,megawatthours
+2025-11-24,CAL,California,NUC,Nuclear,Pacific,54171,megawatthours
+2025-11-24,CAL,California,OIL,Petroleum,Pacific,1077,megawatthours
+2025-11-24,CAL,California,OTH,Other,Pacific,-1170,megawatthours
+2025-11-24,CAL,California,PS,Pumped storage,Pacific,1215,megawatthours
+2025-11-24,CAL,California,SNB,Solar with integrated battery storage,Pacific,3636,megawatthours
+2025-11-24,CAL,California,SUN,Solar,Pacific,111852,megawatthours
+2025-11-24,CAL,California,WAT,Hydro,Pacific,53678,megawatthours
+2025-11-24,CAL,California,WND,Wind,Pacific,35095,megawatthours
+2025-11-25,CAL,California,BAT,Battery storage,Pacific,-164,megawatthours
+2025-11-25,CAL,California,COL,Coal,Pacific,9003,megawatthours
+2025-11-25,CAL,California,GEO,Geothermal,Pacific,10124,megawatthours
+2025-11-25,CAL,California,NG,Natural Gas,Pacific,272869,megawatthours
+2025-11-25,CAL,California,NUC,Nuclear,Pacific,54213,megawatthours
+2025-11-25,CAL,California,OIL,Petroleum,Pacific,1074,megawatthours
+2025-11-25,CAL,California,OTH,Other,Pacific,1447,megawatthours
+2025-11-25,CAL,California,PS,Pumped storage,Pacific,3473,megawatthours
+2025-11-25,CAL,California,SNB,Solar with integrated battery storage,Pacific,4075,megawatthours
+2025-11-25,CAL,California,SUN,Solar,Pacific,98841,megawatthours
+2025-11-25,CAL,California,WAT,Hydro,Pacific,53011,megawatthours
+2025-11-25,CAL,California,WND,Wind,Pacific,36638,megawatthours
+2025-11-26,CAL,California,BAT,Battery storage,Pacific,103,megawatthours
+2025-11-26,CAL,California,COL,Coal,Pacific,8387,megawatthours
+2025-11-26,CAL,California,GEO,Geothermal,Pacific,10304,megawatthours
+2025-11-26,CAL,California,NG,Natural Gas,Pacific,342807,megawatthours
+2025-11-26,CAL,California,NUC,Nuclear,Pacific,54225,megawatthours
+2025-11-26,CAL,California,OIL,Petroleum,Pacific,1088,megawatthours
+2025-11-26,CAL,California,OTH,Other,Pacific,4295,megawatthours
+2025-11-26,CAL,California,PS,Pumped storage,Pacific,88,megawatthours
+2025-11-26,CAL,California,SNB,Solar with integrated battery storage,Pacific,3736,megawatthours
+2025-11-26,CAL,California,SUN,Solar,Pacific,100136,megawatthours
+2025-11-26,CAL,California,WAT,Hydro,Pacific,54860,megawatthours
+2025-11-26,CAL,California,WND,Wind,Pacific,20371,megawatthours
+2025-11-27,CAL,California,BAT,Battery storage,Pacific,-234,megawatthours
+2025-11-27,CAL,California,COL,Coal,Pacific,3112,megawatthours
+2025-11-27,CAL,California,GEO,Geothermal,Pacific,10438,megawatthours
+2025-11-27,CAL,California,NG,Natural Gas,Pacific,348774,megawatthours
+2025-11-27,CAL,California,NUC,Nuclear,Pacific,54225,megawatthours
+2025-11-27,CAL,California,OIL,Petroleum,Pacific,1097,megawatthours
+2025-11-27,CAL,California,OTH,Other,Pacific,-1153,megawatthours
+2025-11-27,CAL,California,PS,Pumped storage,Pacific,933,megawatthours
+2025-11-27,CAL,California,SNB,Solar with integrated battery storage,Pacific,3808,megawatthours
+2025-11-27,CAL,California,SUN,Solar,Pacific,108418,megawatthours
+2025-11-27,CAL,California,WAT,Hydro,Pacific,59234,megawatthours
+2025-11-27,CAL,California,WND,Wind,Pacific,24128,megawatthours
+2025-11-28,CAL,California,BAT,Battery storage,Pacific,-546,megawatthours
+2025-11-28,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-11-28,CAL,California,GEO,Geothermal,Pacific,10433,megawatthours
+2025-11-28,CAL,California,NG,Natural Gas,Pacific,323639,megawatthours
+2025-11-28,CAL,California,NUC,Nuclear,Pacific,54178,megawatthours
+2025-11-28,CAL,California,OIL,Petroleum,Pacific,1103,megawatthours
+2025-11-28,CAL,California,OTH,Other,Pacific,-2814,megawatthours
+2025-11-28,CAL,California,PS,Pumped storage,Pacific,1370,megawatthours
+2025-11-28,CAL,California,SNB,Solar with integrated battery storage,Pacific,2111,megawatthours
+2025-11-28,CAL,California,SUN,Solar,Pacific,84871,megawatthours
+2025-11-28,CAL,California,WAT,Hydro,Pacific,51275,megawatthours
+2025-11-28,CAL,California,WND,Wind,Pacific,11943,megawatthours
+2025-11-29,CAL,California,BAT,Battery storage,Pacific,56,megawatthours
+2025-11-29,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-11-29,CAL,California,GEO,Geothermal,Pacific,10424,megawatthours
+2025-11-29,CAL,California,NG,Natural Gas,Pacific,273969,megawatthours
+2025-11-29,CAL,California,NUC,Nuclear,Pacific,54194,megawatthours
+2025-11-29,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-11-29,CAL,California,OTH,Other,Pacific,3103,megawatthours
+2025-11-29,CAL,California,PS,Pumped storage,Pacific,2363,megawatthours
+2025-11-29,CAL,California,SNB,Solar with integrated battery storage,Pacific,3852,megawatthours
+2025-11-29,CAL,California,SUN,Solar,Pacific,97970,megawatthours
+2025-11-29,CAL,California,WAT,Hydro,Pacific,49755,megawatthours
+2025-11-29,CAL,California,WND,Wind,Pacific,48461,megawatthours
+2025-11-30,CAL,California,BAT,Battery storage,Pacific,263,megawatthours
+2025-11-30,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-11-30,CAL,California,GEO,Geothermal,Pacific,10422,megawatthours
+2025-11-30,CAL,California,NG,Natural Gas,Pacific,299970,megawatthours
+2025-11-30,CAL,California,NUC,Nuclear,Pacific,54228,megawatthours
+2025-11-30,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-11-30,CAL,California,OTH,Other,Pacific,6455,megawatthours
+2025-11-30,CAL,California,PS,Pumped storage,Pacific,178,megawatthours
+2025-11-30,CAL,California,SNB,Solar with integrated battery storage,Pacific,2535,megawatthours
+2025-11-30,CAL,California,SUN,Solar,Pacific,92638,megawatthours
+2025-11-30,CAL,California,WAT,Hydro,Pacific,52224,megawatthours
+2025-11-30,CAL,California,WND,Wind,Pacific,21507,megawatthours
+2025-12-01,CAL,California,BAT,Battery storage,Pacific,-139,megawatthours
+2025-12-01,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-01,CAL,California,GEO,Geothermal,Pacific,10354,megawatthours
+2025-12-01,CAL,California,NG,Natural Gas,Pacific,313156,megawatthours
+2025-12-01,CAL,California,NUC,Nuclear,Pacific,54201,megawatthours
+2025-12-01,CAL,California,OIL,Petroleum,Pacific,1095,megawatthours
+2025-12-01,CAL,California,OTH,Other,Pacific,-762,megawatthours
+2025-12-01,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-12-01,CAL,California,SNB,Solar with integrated battery storage,Pacific,1678,megawatthours
+2025-12-01,CAL,California,SUN,Solar,Pacific,76202,megawatthours
+2025-12-01,CAL,California,WAT,Hydro,Pacific,50758,megawatthours
+2025-12-01,CAL,California,WND,Wind,Pacific,51459,megawatthours
+2025-12-02,CAL,California,BAT,Battery storage,Pacific,-355,megawatthours
+2025-12-02,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-02,CAL,California,GEO,Geothermal,Pacific,10456,megawatthours
+2025-12-02,CAL,California,NG,Natural Gas,Pacific,360126,megawatthours
+2025-12-02,CAL,California,NUC,Nuclear,Pacific,54170,megawatthours
+2025-12-02,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-12-02,CAL,California,OTH,Other,Pacific,-2250,megawatthours
+2025-12-02,CAL,California,PS,Pumped storage,Pacific,576,megawatthours
+2025-12-02,CAL,California,SNB,Solar with integrated battery storage,Pacific,3365,megawatthours
+2025-12-02,CAL,California,SUN,Solar,Pacific,104071,megawatthours
+2025-12-02,CAL,California,WAT,Hydro,Pacific,59060,megawatthours
+2025-12-02,CAL,California,WND,Wind,Pacific,33285,megawatthours
+2025-12-03,CAL,California,BAT,Battery storage,Pacific,23,megawatthours
+2025-12-03,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-03,CAL,California,GEO,Geothermal,Pacific,9892,megawatthours
+2025-12-03,CAL,California,NG,Natural Gas,Pacific,341948,megawatthours
+2025-12-03,CAL,California,NUC,Nuclear,Pacific,54129,megawatthours
+2025-12-03,CAL,California,OIL,Petroleum,Pacific,1101,megawatthours
+2025-12-03,CAL,California,OTH,Other,Pacific,3536,megawatthours
+2025-12-03,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-12-03,CAL,California,SNB,Solar with integrated battery storage,Pacific,3241,megawatthours
+2025-12-03,CAL,California,SUN,Solar,Pacific,80110,megawatthours
+2025-12-03,CAL,California,WAT,Hydro,Pacific,59557,megawatthours
+2025-12-03,CAL,California,WND,Wind,Pacific,42704,megawatthours
+2025-12-04,CAL,California,BAT,Battery storage,Pacific,-189,megawatthours
+2025-12-04,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-04,CAL,California,GEO,Geothermal,Pacific,9434,megawatthours
+2025-12-04,CAL,California,NG,Natural Gas,Pacific,393967,megawatthours
+2025-12-04,CAL,California,NUC,Nuclear,Pacific,54163,megawatthours
+2025-12-04,CAL,California,OIL,Petroleum,Pacific,1100,megawatthours
+2025-12-04,CAL,California,OTH,Other,Pacific,97,megawatthours
+2025-12-04,CAL,California,PS,Pumped storage,Pacific,1955,megawatthours
+2025-12-04,CAL,California,SNB,Solar with integrated battery storage,Pacific,3602,megawatthours
+2025-12-04,CAL,California,SUN,Solar,Pacific,95182,megawatthours
+2025-12-04,CAL,California,WAT,Hydro,Pacific,56860,megawatthours
+2025-12-04,CAL,California,WND,Wind,Pacific,36607,megawatthours
+2025-12-05,CAL,California,BAT,Battery storage,Pacific,-203,megawatthours
+2025-12-05,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-05,CAL,California,GEO,Geothermal,Pacific,9382,megawatthours
+2025-12-05,CAL,California,NG,Natural Gas,Pacific,308137,megawatthours
+2025-12-05,CAL,California,NUC,Nuclear,Pacific,54150,megawatthours
+2025-12-05,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-12-05,CAL,California,OTH,Other,Pacific,-1517,megawatthours
+2025-12-05,CAL,California,PS,Pumped storage,Pacific,2064,megawatthours
+2025-12-05,CAL,California,SNB,Solar with integrated battery storage,Pacific,3577,megawatthours
+2025-12-05,CAL,California,SUN,Solar,Pacific,92148,megawatthours
+2025-12-05,CAL,California,WAT,Hydro,Pacific,46704,megawatthours
+2025-12-05,CAL,California,WND,Wind,Pacific,21746,megawatthours
+2025-12-06,CAL,California,BAT,Battery storage,Pacific,6,megawatthours
+2025-12-06,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-06,CAL,California,NG,Natural Gas,Pacific,282547,megawatthours
+2025-12-06,CAL,California,NUC,Nuclear,Pacific,54240,megawatthours
+2025-12-06,CAL,California,OIL,Petroleum,Pacific,1096,megawatthours
+2025-12-06,CAL,California,OTH,Other,Pacific,6632,megawatthours
+2025-12-06,CAL,California,PS,Pumped storage,Pacific,2540,megawatthours
+2025-12-06,CAL,California,SNB,Solar with integrated battery storage,Pacific,2940,megawatthours
+2025-12-06,CAL,California,SUN,Solar,Pacific,93451,megawatthours
+2025-12-06,CAL,California,WAT,Hydro,Pacific,60603,megawatthours
+2025-12-06,CAL,California,WND,Wind,Pacific,29194,megawatthours
+2025-12-07,CAL,California,BAT,Battery storage,Pacific,7,megawatthours
+2025-12-07,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-07,CAL,California,NG,Natural Gas,Pacific,214800,megawatthours
+2025-12-07,CAL,California,NUC,Nuclear,Pacific,54288,megawatthours
+2025-12-07,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-12-07,CAL,California,OTH,Other,Pacific,3151,megawatthours
+2025-12-07,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-12-07,CAL,California,SNB,Solar with integrated battery storage,Pacific,3466,megawatthours
+2025-12-07,CAL,California,SUN,Solar,Pacific,89732,megawatthours
+2025-12-07,CAL,California,WAT,Hydro,Pacific,51538,megawatthours
+2025-12-07,CAL,California,WND,Wind,Pacific,40692,megawatthours
+2025-12-08,CAL,California,BAT,Battery storage,Pacific,-347,megawatthours
+2025-12-08,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-08,CAL,California,GEO,Geothermal,Pacific,9878,megawatthours
+2025-12-08,CAL,California,NG,Natural Gas,Pacific,242085,megawatthours
+2025-12-08,CAL,California,NUC,Nuclear,Pacific,54266,megawatthours
+2025-12-08,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-12-08,CAL,California,OTH,Other,Pacific,-3669,megawatthours
+2025-12-08,CAL,California,PS,Pumped storage,Pacific,0,megawatthours
+2025-12-08,CAL,California,SNB,Solar with integrated battery storage,Pacific,3218,megawatthours
+2025-12-08,CAL,California,SUN,Solar,Pacific,90962,megawatthours
+2025-12-08,CAL,California,WAT,Hydro,Pacific,56560,megawatthours
+2025-12-08,CAL,California,WND,Wind,Pacific,19435,megawatthours
+2025-12-09,CAL,California,BAT,Battery storage,Pacific,15,megawatthours
+2025-12-09,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-09,CAL,California,GEO,Geothermal,Pacific,10221,megawatthours
+2025-12-09,CAL,California,NG,Natural Gas,Pacific,295001,megawatthours
+2025-12-09,CAL,California,NUC,Nuclear,Pacific,54228,megawatthours
+2025-12-09,CAL,California,OIL,Petroleum,Pacific,1103,megawatthours
+2025-12-09,CAL,California,OTH,Other,Pacific,-490,megawatthours
+2025-12-09,CAL,California,PS,Pumped storage,Pacific,445,megawatthours
+2025-12-09,CAL,California,SNB,Solar with integrated battery storage,Pacific,3399,megawatthours
+2025-12-09,CAL,California,SUN,Solar,Pacific,90351,megawatthours
+2025-12-09,CAL,California,WAT,Hydro,Pacific,58391,megawatthours
+2025-12-09,CAL,California,WND,Wind,Pacific,26495,megawatthours
+2025-12-10,CAL,California,BAT,Battery storage,Pacific,82,megawatthours
+2025-12-10,CAL,California,COL,Coal,Pacific,0,megawatthours
+2025-12-10,CAL,California,GEO,Geothermal,Pacific,10393,megawatthours
+2025-12-10,CAL,California,NG,Natural Gas,Pacific,308813,megawatthours
+2025-12-10,CAL,California,NUC,Nuclear,Pacific,54240,megawatthours
+2025-12-10,CAL,California,OIL,Petroleum,Pacific,1104,megawatthours
+2025-12-10,CAL,California,OTH,Other,Pacific,-1119,megawatthours
+2025-12-10,CAL,California,PS,Pumped storage,Pacific,671,megawatthours
+2025-12-10,CAL,California,SNB,Solar with integrated battery storage,Pacific,2915,megawatthours
+2025-12-10,CAL,California,SUN,Solar,Pacific,96616,megawatthours
+2025-12-10,CAL,California,WAT,Hydro,Pacific,55940,megawatthours
+2025-12-10,CAL,California,WND,Wind,Pacific,28525,megawatthours

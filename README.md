@@ -19,3 +19,21 @@ This project forecasts daily electricity demand for the City of Los Angeles up t
 * The data shows that holidays cause significant peaks and valleys in electricity demand, making them a critical factor for accurate forecasting (bottom left).
 
 ### What features contribute to accurate forecasts?
+<table>
+  <tr>
+    <td><img src="Images/energy_vs_temperature.png" width="500"></td>
+    <td><img src="Images/average_monthly_generation_california.png" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="Images/seasonal_decomposition_total_generation.png" height="400"></td>
+    <td><img src="Images/pacf_total_generation.png" width="500"></td>
+  </tr>
+</table>
+
+* Electricity demand closely tracks temperature. When temperatures rise or fall, electricity generation tends to move in the same direction, reflecting similar seasonal patterns throughout the year.
+* Peak electricity demand occurs in late summer to early fall.On average, electricity usage is highest between July and October, likely driven by cooling needs and increased activity during warmer months.
+* Electricity demand is steadily increasing over time. The long-term trend shows a consistent upward growth in electricity generation across the years, with strong and predictable seasonal patterns. Short-term fluctuations remain stable and do not show increasing volatility.
+* Demand today is strongly influenced by demand yesterday.
+Electricity usage shows a strong dependence on the previous time period, meaning current demand can be well predicted using recent past demand.
+
+### 7 Day Ahead Forecast

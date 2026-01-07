@@ -4,12 +4,18 @@ This project forecasts daily electricity demand for the City of Los Angeles up t
 ### Exploratory Data analysis
 <table>
   <tr>
-    <td><img src="images/img1.png" width="300"></td>
-    <td><img src="images/img2.png" width="300"></td>
+    <td><img src="Images/total_generation_pie_chart.png" width="500"></td>
+    <td><img src="Images/california_generation_natural_gas_solar_hydro_wind.png" width="600"></td>
   </tr>
   <tr>
-    <td><img src="images/img3.png" width="300"></td>
-    <td><img src="images/img4.png" width="300"></td>
+    <td><img src="Images/california_total_generation_2025_holidays.png" height=400"></td>
+    <td><img src="Images/california_total_generation_november_2025_weekends.png" width="500"></td>
   </tr>
 </table>
-The data shows Natural Gas as the leading generator of electricty followed by Solar, Hydro and Wind.
+
+* Natural gas is the dominant source of electricity generation, consistently providing the largest share relative to solar, hydro, and wind (top left).
+* Natural gas generation exhibits clear seasonality, ramping up during the summer months (June–September) to accommodate increased electricity demand driven by cooling and air-conditioning usage (bottom left).
+* In contrast, during cooler months (November–May), overall electricity demand declines and renewable energy sources account for a higher proportion of total generation, reducing reliance on natural gas (top right).
+* The data shows that holidays cause significant peaks and valleys in electricity demand, making them a critical factor for accurate forecasting (bottom left).
+
+### What features contribute to accurate forecasts?

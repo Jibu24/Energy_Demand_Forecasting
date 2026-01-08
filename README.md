@@ -4,11 +4,11 @@ This project forecasts daily electricity demand for the City of Los Angeles up t
 ## Exploratory Data analysis
 <table>
   <tr>
-    <td><img src="Images/total_generation_pie_chart.png" width="500"></td>
+    <td><img src="Images/total_generation_pie_chart.png" width="400"></td>
     <td><img src="Images/california_generation_natural_gas_solar_hydro_wind.png" width="600"></td>
   </tr>
   <tr>
-    <td><img src="Images/california_total_generation_2025_holidays.png" height=400"></td>
+    <td><img src="Images/california_total_generation_2025_holidays.png" width="500"></td>
     <td><img src="Images/california_total_generation_november_2025_weekends.png" width="500"></td>
   </tr>
 </table>

@@ -1,7 +1,7 @@
 # Energy Demand Forecasting
 This project forecasts daily electricity demand for the City of Los Angeles up to 30 days in advance using historical energy usage, weather data, and calendar-based features. Electricity demand varies significantly with weather, seasonality, and human behavior, and inaccurate forecasts can lead to overproduction, wasted resources, underproduction, service disruptions, and inefficient staffing or infrastructure planning. By applying data-driven forecasting techniques, this project demonstrates how utilities can improve operational planning, manage costs, and reduce the risk of outages through more accurate demand predictions.
 
-### Exploratory Data analysis
+## Exploratory Data analysis
 <table>
   <tr>
     <td><img src="Images/total_generation_pie_chart.png" width="500"></td>
@@ -31,9 +31,28 @@ This project forecasts daily electricity demand for the City of Los Angeles up t
 </table>
 
 * Electricity demand closely tracks temperature. When temperatures rise or fall, electricity generation tends to move in the same direction, reflecting similar seasonal patterns throughout the year.
-* Peak electricity demand occurs in late summer to early fall.On average, electricity usage is highest between July and October, likely driven by cooling needs and increased activity during warmer months.
+* Peak electricity demand occurs in late summer to early fall. On average, electricity usage is highest between July and October, likely driven by cooling needs and increased activity during warmer months.
 * Electricity demand is steadily increasing over time. The long-term trend shows a consistent upward growth in electricity generation across the years, with strong and predictable seasonal patterns. Short-term fluctuations remain stable and do not show increasing volatility.
 * Demand today is strongly influenced by demand yesterday.
 Electricity usage shows a strong dependence on the previous time period, meaning current demand can be well predicted using recent past demand.
 
-### 7 Day Ahead Forecast
+## 7 Day Ahead Forecast
+<img src="Images/sarimax_forecast_with_exogenous.png" width="1000">
+
+* The SARIMAX model achieved a **Mean Absolute Percentage Error (MAPE) of 5.7%** on the 7-day forecast, meaning predictions were, on average, within 5.7% of actual electricity demand.
+
+## 30 Day Ahead Forecast
+
+<table>
+  <tr>
+    <td><img src="Images/xgboost_forecast.png" width="600" height="300"></td>
+    <td><img src="Images/xgboost_feature_importance.png" width="600"></td>
+</table>
+
+* The XGboost model achieved a MAPE of 2.6% on the 30 Day forecast
+* We include **HDD (Heating Degree Days)** and **CDD (Cooling Degree Days)** in our model to account for weather's impact on electricity use:
+
+  * **HDD**: Measures how much **heating** people need (cold days)
+  * **CDD**: Measures how much **cooling** people need (hot days)
+
+    - These help predict when Angelenos will use more electricity for AC or heating.
